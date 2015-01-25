@@ -1,0 +1,26 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body
+{ 
+background: red; 
+color: white;
+padding-top: 100px;
+}
+
+a, a:visited {
+	color: white;
+}
+h1	{
+	color: purple;
+}
+footer { margin-top: 100px; }
+table, td, th { vertical-align: middle; border: none; padding: 10px; }
+th { border-top: 1px solid #DDD; }
+.variable {
+	color: blue;
+}
+
+.btn .glyphicon {
+	color: red;
+}
